@@ -118,7 +118,7 @@ class LogisticRegression:
     def _sigmoid(self, x):
         return 1 / (1 + np.exp(-x))
 
-class SVM:
+class SVM_linear:
 
     def __init__(self,lr = 0.001, lambda_param = 0.01, n_iters = 1000):
         self.lambda_param = lambda_param

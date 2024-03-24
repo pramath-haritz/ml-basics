@@ -8,6 +8,8 @@
 6. Decision Tree
 7. Random Forest
 8. Naive Bayes Classifier
+9. AdaBoost
+
 ## Regression 
 1. Linear Regression 
 2. Polynomial Regression 
@@ -15,3 +17,7 @@
 4. Decision Tree Regression
 5. Random Forest Regression
 6. SDG Regression
+
+## Dimensionality Reduction
+1. LDA(Linear Discriminant Analysis)
+2. PCA(Principle Component Analysis)
