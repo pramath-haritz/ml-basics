@@ -14,3 +14,4 @@
 3. SVM Regression
 4. Decision Tree Regression
 5. Random Forest Regression
+6. SDG Regression
